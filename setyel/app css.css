@@ -1,0 +1,43 @@
+body {
+  background-color: #1f1c1c;
+  margin-top: 100px;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.Keahlian {
+  padding: 80;
+  margin-top: 100px;
+}
+.profile h5 {
+  transform: translateY(-35%);
+  margin-top: 30x;
+}
+.foto {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+}
+.biodata {
+  background-color: #ffff;
+  transform: translateY(-9%);
+  margin-top: 10px;
+}
+#prrjects {
+  background-color: #1f1c1c;
+  transform: translateY(-2%);
+  padding: 80;
+  margin-top: -30px;
+}
+
+.footer {
+  background-color: #ffff;
+  font-size: 40px;
+}
+.scotntac {
+  background-color: #8f468c;
+}
